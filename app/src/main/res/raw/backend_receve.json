@@ -1,0 +1,372 @@
+{
+  "id": "5e5ca4280abfcf4fbaa4505e",
+  "index": 0,
+  "guid": "2fe732d9-441c-4ff7-8fa0-1feabfc2cc60",
+  "gender": "male",
+  "name": "Warner Glass",
+  "picture": "https://s3.amazonaws.com/uifaces/faces/twitter/benoitboucart/128.jpg",
+  "age": 35,
+  "height": 179,
+  "weight": 68,
+  "email": "warner.glass@lovepad.io",
+  "trainer": "Winfield Jones",
+  "group": "51",
+  "type": {
+    "treadmill": {
+      "description": "what do you need to do",
+      "dates": [
+        {
+          "date": "08-03-2020",
+          "tasks":[
+            {"result": "complete",
+              "description": "Run distance with speed and time duration",
+              "parameters":[
+                {
+                  "type": "Time",
+                  "descr": "duration",
+                  "count": "15",
+                  "unit":"min"
+                },
+                {
+                  "type": "Speed",
+                  "descr": "AVG more than",
+                  "count": "11",
+                  "unit":"km/h"
+                },
+                {
+                  "type": "Distance",
+                  "descr": "",
+                  "count": "2",
+                  "unit":"km"
+                }
+              ],
+              "graph": {
+                "x":[0,1,2,3,4,5,6,7,8,9],
+                "y":[11.69,11.82,11.56,14.13,14.76,11.38,13.11,12.25,12.37,13.86]
+              }
+            },
+            {"result": "complete",
+              "description": "Run distance with speed",
+              "parameters":[
+                {
+                  "type": "speed",
+                  "descr": "more than",
+                  "count": "15",
+                  "unit":"km/h"
+                },
+                {
+                  "type": "Time",
+                  "descr": "more than",
+                  "count": "2",
+                  "unit":"min"
+                }
+              ],
+              "graph": {
+                "x":[0,1,2,3,4,5,6,7,8,9],
+                "y":[11.69,11.82,11.56,14.13,14.76,11.38,13.11,12.25,12.37,13.86]
+              }
+            }
+          ]
+        },
+        {
+          "date": "09-03-2020",
+          "task": 2.2,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y":[14.55,12.05,13.19,13.43,15.45,14.98,13.63,14.41,14.21,15.84]
+          }
+        },
+        {
+          "date": "10-03-2020",
+          "task": 2.3,
+          "result": "not complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y":[12.91,12.83,15.1,13.36,13.68,15.35,12.83,13.59,12.67,13.6]
+          }
+        },
+        {
+          "date": "11-03-2020",
+          "task": 2.4,
+          "result": "passed ",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y":[11.2,12.68,13.77,13.53,13.69,12.94,15.09,13.05,12.77,15.48]
+          }
+        },
+        {
+          "date": "12-03-2020",
+          "task": 2.5,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [
+              14.28,14.11,14.16,11.81,13.24,12.82,13.15,14.14,15.49,15.04]
+          }
+        },
+        {
+          "date": "13-03-2020",
+          "task": 2.6,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [13.45,13.64,12.81,12.55,11.2,14.64,12.22,15.38,12.19,11.7]
+          }
+        },
+        {
+          "date": "14-03-2020",
+          "task": 2.7,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [12, 14, 12, 12, 13, 13, 12, 11, 12, 16]
+          }
+        },
+        {
+          "date": "15-03-2020",
+          "task": 2.8,
+          "result": "passed",
+          "graph": {"x":[],"y": []}
+        },
+        {
+          "date": "16-03-2020",
+          "task": 2.9,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [13.94,12.94,13.86,13.92,11.45,12.84,11.87,14.8,13.33,13.51]
+          }
+        },
+        {
+          "date": "17-03-2020",
+          "task": 3.0,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [14.22,12.07,14.71,12.1,11.8,14.39,13.91,14.14,12.1,15.95]
+          }
+        },
+        {
+          "date": "18-03-2020",
+          "task": 3.1,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [12.1,11.63,11.87,14.02,11.62,12.03,15.23,11.91,12.37,14.76]
+          }
+        },
+        {
+          "date": "19-03-2020",
+          "task": 3.2,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [11.59,12.19,12.35,14.89,13.49,14.84,11.85,13.03,13.96,12.61]
+          }
+        },
+        {
+          "date": "20-03-2020",
+          "task": 3.3,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [12.73,11.8,11.2,15.53,11.76,10.79,13.5,12.07,12.06,12.66]
+          }
+        },
+        {
+          "date": "21-03-2020",
+          "task": 3.4,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [11.53,12.63,15.49,13.87,11.91,13.14,12.11,15.82,13.13,12.81]
+          }
+        },
+        {
+          "date": "22-03-2020",
+          "task": 3.5,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [12.98,14.6,13.01,14.57,15.79,12.39,12.1,12.83,13.03,14.73]
+          }
+        },
+        {
+          "date": "23-03-2020",
+          "task": 3.6,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [13.46,12.01,12.97,14.76,12.7,12.75,14.84,10.33,13.9,13.03]
+          }
+        },
+        {
+          "date": "24-03-2020",
+          "task": 3.7,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [13, 15, 11, 13, 14, 13, 16, 14, 13, 16]
+          }
+        },
+        {
+          "date": "25-03-2020",
+          "task": 3.8,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [11.9,12.58,13.7,12.01,12.8,10,12.43,10.71,10.94,10.47]
+          }
+        },
+        {
+          "date": "26-03-2020",
+          "task": 3.9,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [11.94,11.29,13.78,14.18,14.69,13.48,12.36,12.08,12.32,13.71]
+          }
+        },
+        {
+          "date": "27-03-2020",
+          "task": 4.0,
+          "result": "complete",
+          "graph": {
+            "x":[0,1,2,3,4,5,6,7,8,9],
+            "y": [15.98,15.66,13.9,12.38,12.41,14.54,13.83,11.62,14.45,12.53]
+          }
+        }
+      ]
+    },
+    "exercise_bike": {
+      "description": "what do you need to do",
+      "date": [
+        {
+          "date": "09-03-2020",
+          "tasks": [
+            {
+              "description": "run_no_speed_timer",
+              "counter_1": null ,
+              "counter_2": 30,
+              "task": 10,
+              "result": null,
+              "graph": {
+                "x":[],
+                "y": []
+              }
+            },
+            {
+              "description": "run_speed_timer",
+              "params": {
+
+              },
+              "task": null,
+              "result": null,
+              "graph": {
+                "x":[],
+                "y": []
+              }
+            },
+            {
+              "description": "run_speed_timer",
+              "counter_1": 15 ,
+              "counter_2": 20,
+              "task": null,
+              "result": null,
+              "graph": {
+                "x":[],
+                "y": []
+              }
+            }
+          ]
+        },
+        {
+          "date": "10-03-2020",
+          "task": 5.2,
+          "result": "not complete"
+        },
+        {
+          "date": "11-03-2020",
+          "task": 5.4,
+          "result": "passed "
+        },
+        {
+          "date": "12-03-2020",
+          "task": 5.8,
+          "result": "none"
+        },
+        {
+          "date": "13-03-2020",
+          "task": 6,
+          "result": "none"
+        }
+      ]
+    },
+    "barbell": {
+      "description": "what do you need to do",
+      "date": [
+        {
+          "date": "09-03-2020",
+          "mass": 20,
+          "task": 10,
+          "result": "complete"
+        },
+        {
+          "date": "10-03-2020",
+          "mass": 20,
+          "task": 11,
+          "result": "not complete"
+        },
+        {
+          "date": "11-03-2020",
+          "mass": 20,
+          "task": 12,
+          "result": "passed "
+        },
+        {
+          "date": "12-03-2020",
+          "mass": 20,
+          "task": 13,
+          "result": "none"
+        },
+        {
+          "date": "13-03-2020",
+          "mass": 20,
+          "task": 14,
+          "result": "none"
+        }
+      ]
+    },
+    "ab_bench": {
+      "description": "what do you need to do",
+      "date": [
+        {
+          "date": "09-03-2020",
+          "task": 22,
+          "result": "complete"
+        },
+        {
+          "date": "10-03-2020",
+          "task": 23,
+          "result": "not complete"
+        },
+        {
+          "date": "11-03-2020",
+          "task": 24,
+          "result": "passed "
+        },
+        {
+          "date": "12-03-2020",
+          "task": 25,
+          "result": "none"
+        },
+        {
+          "date": "13-03-2020",
+          "task": 26,
+          "result": "none"
+        }
+      ]
+    }
+  }
+}

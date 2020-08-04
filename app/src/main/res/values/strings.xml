@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Gym Kiosk</string>
+    <string name="daydream_name">Gym Kiosk</string>
+
+    <string name="title_activity_screen_saver">ScreenSaver</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="qr_value">NONE</string>
+    <string name="user_group">"Group: "</string>
+    <string name="user_trainer">Trainer: </string>
+    <string name="button_prev_training">Previous trainings</string>
+    <string name="main_text_qr_nfc_to_scan">Scan your QR or NFC here</string>
+    <string name="main_text_qr_scanning">Qr-code checking</string>
+    <string name="main_text_qr_access">Qr-code access</string>
+    <string name="main_text_qr_error">Authorization ERROR! \n Try again please.</string>
+
+    <string name="main_text_nfc_scanning">NFC card checking</string>
+    <string name="main_text_nfc_access">NFC card access</string>
+    <string name="main_text_nfc_error">NFC card ERROR! \n Try again please.</string>
+
+    <string name="button_logout">Logout</string>
+    <string name="task_description" />
+    <string name="previous_trainings">Previous trainings</string>
+    <string name="task_description_button">Task Description</string>
+    <string name="skip_training">Skip training</string>
+    <string name="start_training">Start training</string>
+    <string name="current_training">Current training</string>
+</resources>

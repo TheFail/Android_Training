@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c362f7f-cba4-4f6b-94dd-06ff6914b2ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java/ch/vitim/gym_kiosk/UserActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable/border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable/oym_bavkground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/activity_user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/ch/vitim/gym_kiosk/LockGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/ch/vitim/gym_kiosk/LockGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/ch/vitim/gym_kiosk/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/ch/vitim/gym_kiosk/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawable/oym_bavkground.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1YNuwCVyAE4rV2ErWoqhbPhSy9j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c362f7f-cba4-4f6b-94dd-06ff6914b2ca" name="Default Changelist" comment="" />
+      <created>1582795609317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582795609317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
